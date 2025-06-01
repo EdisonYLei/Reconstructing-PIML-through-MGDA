@@ -1,4 +1,4 @@
-## Official Code for "Reconstructing-PIML-through-Multi-Gradient-Descent-a-Pareto-Learning-Approach"
+## Official Code for "Reconstructing Physics-Informed Machine Learning for Traffic Flow Modeling: a Multi-Gradient Descent and Pareto Learning Approach"
 
 This repository provides the official open-source implementation of our paper, *"Reconstructing PIML through Multi-Gradient Descent: a Pareto Learning approach"*. We have included an environment configuration file, `requirements.txt`, to help you easily set up the necessary dependencies.
 
@@ -55,7 +55,7 @@ Our implementation incorporates code inspired by the following works:
 
 ### Citation
 
-If you use this code in your research, please ensure to cite the referenced works accordingly. For our paper titled *"Reconstructing PIML through Multi-Gradient Descent: A Pareto Learning Approach,"* please use the following citation details:
+If you use this code in your research, please ensure to cite the referenced works accordingly. For our paper titled *"Reconstructing Physics-Informed Machine Learning for Traffic Flow Modeling: a Multi-Gradient Descent and Pareto Learning Approach,"* please use the following citation details:
 
 ```bibtex
 @article{lei2025reconstructing,
