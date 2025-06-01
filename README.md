@@ -55,5 +55,14 @@ Our implementation incorporates code inspired by the following works:
 
 ### Citation
 
-If you use this code for your research, please cite the above works accordingly. Citation details for our own paper *"Reconstructing PIML through Multi-Gradient Descent: a Pareto Learning approach"* will be provided shortly.
+If you use this code in your research, please ensure to cite the referenced works accordingly. For our paper titled *"Reconstructing PIML through Multi-Gradient Descent: A Pareto Learning Approach,"* please use the following citation details:
+
+```bibtex
+@article{lei2025reconstructing,
+  title={Reconstructing Physics-Informed Machine Learning for Traffic Flow Modeling: a Multi-Gradient Descent and Pareto Learning Approach},
+  author={Lei, Yuan-Zheng and Gong, Yaobang and Chen, Dianwei and Cheng, Yao and Yang, Xianfeng Terry},
+  journal={arXiv preprint arXiv:2505.13241},
+  year={2025}
+}
+```
 
