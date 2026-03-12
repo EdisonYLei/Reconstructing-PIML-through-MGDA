@@ -59,10 +59,13 @@ If you use this code in your research, please ensure to cite the referenced work
 
 ```bibtex
 @article{lei2025reconstructing,
-  title={Reconstructing Physics-Informed Machine Learning for Traffic Flow Modeling: a Multi-Gradient Descent and Pareto Learning Approach},
+  title={Reconstructing physics-informed machine learning for traffic flow modeling: a multi-gradient descent and pareto learning approach},
   author={Lei, Yuan-Zheng and Gong, Yaobang and Chen, Dianwei and Cheng, Yao and Yang, Xianfeng Terry},
-  journal={arXiv preprint arXiv:2505.13241},
-  year={2025}
+  journal={Transportation Research Part C: Emerging Technologies},
+  volume={180},
+  pages={105344},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 
