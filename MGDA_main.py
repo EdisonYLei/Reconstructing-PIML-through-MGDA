@@ -151,7 +151,7 @@ if __name__ == "__main__":
         print(f"\n=== Run {run+1}/{n_runs} (seed={run_seed}) ===")
 
         # -- 4.1 Load REAL dataset --
-        DATA_FILE = os.path.join("data", "real_data_lane3_f2l2.pickle")
+        DATA_FILE = os.path.join("data", "idm_data_no_restriction.pickle")
         with open(DATA_FILE, "rb") as f:
             xvfl = pickle.load(f)
         xvfl_test = xvfl[-EVAL_NUM:]
