@@ -109,7 +109,7 @@ def eval_rmse(test_seqs, net):
            rmse(np.concatenate(pv), np.concatenate(tv))
 
 # ---------------------- 3. Load dataset ----------------------
-with open(os.path.join("data", "real_data_lane3_f2l2.pickle"), "rb") as f:
+with open(os.path.join("data", "idm_data_no_restriction.pickle"), "rb") as f:
     xvfl_all = pickle.load(f)
 
 xvfl_test = xvfl_all[-EVAL_NUM:]      # 10 held-out sequences
