@@ -173,7 +173,7 @@ def run_single_experiment(alpha, seed, feature_all, test_set):
 if __name__ == "__main__":
     set_seed(MASTER_SEED)
 
-    with open(os.path.join("data", "real_data_lane3_f2l2.pickle"), "rb") as f:
+    with open(os.path.join("data", "idm_data_no_restriction.pickle"), "rb") as f:
         xvfl = pickle.load(f)
 
     test_set   = xvfl[-EVAL_NUM:]
